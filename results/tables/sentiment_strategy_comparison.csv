@@ -1,0 +1,4 @@
+Strategy,Annualised Return,Annualised Volatility,Sharpe Ratio,Maximum Drawdown
+Base Min-Variance,5.4%,12.7%,0.429,-15.3%
+Naive Sentiment,6.3%,13.3%,0.477,-16.7%
+Final Sentiment Innovation,7.9%,13.0%,0.609,-12.7%

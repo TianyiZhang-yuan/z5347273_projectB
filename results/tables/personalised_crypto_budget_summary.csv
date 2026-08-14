@@ -1,0 +1,4 @@
+profile,minimum_permitted_raw_crypto_budget,maximum_permitted_raw_crypto_budget,number_of_valid_raw_budgets,number_of_unavailable_raw_budgets,first_valid_raw_budget_date,minimum_observed_raw_crypto_budget,median_observed_raw_crypto_budget,mean_observed_raw_crypto_budget,maximum_observed_raw_crypto_budget,date_of_minimum_observed_raw_crypto_budget,date_of_maximum_observed_raw_crypto_budget
+conservative,0.0,0.1,45,3,2020-04-30,0.0,0.07057902973395931,0.0631382655751522,0.09992531740104556,2021-06-30,2023-10-31
+balanced,0.05,0.2,45,3,2020-04-30,0.05,0.15586854460093896,0.14470739836272828,0.19988797610156833,2021-06-30,2023-10-31
+growth,0.1,0.3,45,3,2020-04-30,0.1,0.24115805946791863,0.22627653115030438,0.2998506348020911,2021-06-30,2023-10-31

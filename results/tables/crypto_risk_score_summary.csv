@@ -1,0 +1,2 @@
+first_monthly_score_date,last_monthly_score_date,total_monthly_score_date_rows,minimum_required_history,first_risk_score_available_date,number_of_available_scores,number_of_unavailable_early_scores,minimum_risk_score,median_risk_score,mean_risk_score,maximum_risk_score,date_of_maximum_risk_score,date_of_minimum_risk_score
+2020-01-31,2023-12-29,48,60,2020-04-30,45,3,0.07468259895444362,29.42097026604069,36.861734424847825,100.0,2021-06-30,2023-10-31

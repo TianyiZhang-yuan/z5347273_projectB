@@ -1,0 +1,13 @@
+Fund,Universe,Method,Final Rebalance,Top Holdings / Target Weights,Total Weight
+Equity Equal Weight,Equity,Equal Weight,2023-12-01,ABBV 2.0%; ABT 2.0%; ADBE 2.0%; AEP 2.0%; AMD 2.0%; Others 90.0%,100.0%
+Equity Minimum Variance,Equity,Minimum Variance,2023-12-01,KO 18.5%; WMT 17.9%; MRK 10.5%; ABBV 8.7%; O 8.4%; Others 35.9%,100.0%
+Equity Maximum Sharpe,Equity,Maximum Sharpe,2023-12-01,GE 20.0%; NVDA 20.0%; SO 19.9%; ADBE 13.8%; TTWO 11.3%; Others 15.1%,100.0%
+Equity Minimum CVaR,Equity,Minimum CVaR,2023-12-01,KO 18.1%; TMUS 16.6%; WMT 11.8%; MRK 9.6%; CMCSA 9.4%; Others 34.4%,100.0%
+Crypto Equal Weight,Crypto,Equal Weight,2023-12-01,ADA-USD 10.0%; BCH-USD 10.0%; BTC-USD 10.0%; EOS-USD 10.0%; ETC-USD 10.0%; Others 50.0%,100.0%
+Crypto Minimum Variance,Crypto,Minimum Variance,2023-12-01,ETH-USD 20.0%; TRX-USD 20.0%; BTC-USD 20.0%; EOS-USD 12.4%; ADA-USD 11.5%; Others 16.1%,100.0%
+Crypto Maximum Sharpe,Crypto,Maximum Sharpe,2023-12-01,ETH-USD 20.0%; TRX-USD 20.0%; BCH-USD 20.0%; BTC-USD 20.0%; XRP-USD 20.0%; Others 0.0%,100.0%
+Crypto Minimum CVaR,Crypto,Minimum CVaR,2023-12-01,BCH-USD 20.0%; BTC-USD 20.0%; ETH-USD 20.0%; TRX-USD 20.0%; ADA-USD 10.8%; Others 9.2%,100.0%
+Combined Equal Weight,Combined,Equal Weight,2023-12-01,ABBV 1.7%; ABT 1.7%; ADA-USD 1.7%; ADBE 1.7%; AEP 1.7%; Others 91.7%,100.0%
+Combined Minimum Variance,Combined,Minimum Variance,2023-12-01,KO 18.3%; WMT 17.2%; MRK 10.3%; ABBV 8.9%; O 8.5%; Others 36.9%,100.0%
+Combined Maximum Sharpe,Combined,Maximum Sharpe,2023-12-01,GE 20.0%; NVDA 20.0%; SO 18.2%; ADBE 11.6%; BTC-USD 10.3%; Others 19.8%,100.0%
+Combined Minimum CVaR,Combined,Minimum CVaR,2023-12-01,KO 18.1%; TMUS 16.6%; WMT 11.8%; MRK 9.6%; CMCSA 9.4%; Others 34.4%,100.0%
